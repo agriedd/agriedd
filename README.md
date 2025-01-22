@@ -2,6 +2,11 @@
 ```json
 {
   "name": "Agri",
+  "portfolio": "https//agriedd.github.io",
+  "social_media": [
+      "https://x.com/agriedd",
+      "https://instagram.com/agriedd",
+  ],
   "pets": [
     {
       "name": "bunga",
