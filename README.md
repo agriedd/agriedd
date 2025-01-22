@@ -2,9 +2,15 @@
 ```json
 {
   "name": "Agri",
+  "pets": [
+    {
+      "name": "bunga",
+      "species": "Canis familiaris",
+      "genus": "Canis",
+    }
+  ]
 }
 ```
-
 <!--
 **agriedd/agriedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
