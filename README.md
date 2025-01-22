@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+```json
+{
+  "name": "Agri",
+}
+```
 
 <!--
 **agriedd/agriedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
