@@ -3,9 +3,10 @@
 {
   "name": "Agri",
   "portfolio": "https//agriedd.github.io",
-  "social_media": [
+  "contacts": [
       "https://x.com/agriedd",
       "https://instagram.com/agriedd",
+      "dnr739528@gmail.com"
   ],
   "pets": [
     {
